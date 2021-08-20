@@ -33,4 +33,3 @@ Time: 00:00.076, Memory: 10.00 MB
 
 OK (4 tests, 4 assertions)
 # -a100adrian-PerfectNumberChallenge
-# PerfectNumberChallenge
